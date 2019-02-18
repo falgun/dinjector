@@ -1,0 +1,15 @@
+{
+    "name": "falgun/dinjector",
+    "type": "library,",
+    "authors": [
+        {
+            "name": "Ataur Rahman",
+            "email": "dev.ataur.rahman@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Falgun\\DInjector\\": "src/"
+        }
+    }
+}
